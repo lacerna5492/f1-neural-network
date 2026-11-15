@@ -1,4 +1,4 @@
-# 🏁 F1 Points-Finish Predictor
+# F1 Points-Finish Predictor
 
 **CAI2300C Introduction to NLP · Dr. Lee · In-class assignment: build your own neural network with your OWN dataset**
 Ryan Lacerna
